@@ -1,0 +1,4 @@
+DEFAULT_PERMISSIONS=644
+SYMBOLS_TO_SWAP=:"\"”;*?\$#'‘|\\"
+SYMBOL_TO_SWAP_TO="_"
+TMP_FILES=".*\(\.tmp\|~\)"

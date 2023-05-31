@@ -1,0 +1,1 @@
+./file_cleaner.sh -x ./testR/X testR/a testR/b testR/c -d -e -t -n -p -s -m -y -v
